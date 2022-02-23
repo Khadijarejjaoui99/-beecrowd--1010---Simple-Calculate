@@ -1,4 +1,4 @@
-// Solution of 1010 - Simple Calculate with Bonus in beecrowd
+// Solution of 1010 - Simple Calculate in beecrowd
 #include <iostream>
 #include <iomanip>
 using namespace std;
